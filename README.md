@@ -1,4 +1,12 @@
-### Backend: https://github.com/rrrx-4/Dashboard-visualization-Backend
+### Backend: 
+https://github.com/rrrx-4/Dashboard-visualization-Backend
+
+### Technology
+*react
+*rechart
+*Tailwind
+*Nodejs
+
 
 
 ![Screenshot 2023-02-19 004446](https://user-images.githubusercontent.com/69399883/220701122-03bca79d-2ff4-46f1-9bc7-66682e0bab24.png)
