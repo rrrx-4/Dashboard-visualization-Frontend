@@ -2,10 +2,10 @@
 https://github.com/rrrx-4/Dashboard-visualization-Backend
 
 ### Technology
-*react
-*rechart
-*Tailwind
-*Nodejs
+* react
+* rechart
+* Tailwind
+* Nodejs
 
 
 
